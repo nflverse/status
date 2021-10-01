@@ -31,6 +31,12 @@ This page reports the schedule and status of nflverse data pipelines.
 
 `0 7 * 1,2,9-12 *`
 
+## nfl4th
+
+![nfl4th](https://img.shields.io/github/workflow/status/nflverse/nfl4th/update-computed-numbers?label=nfl4th_precompute&style=flat-square)
+
+`0 7 * 1,2,9-12 *`
+
 ## ffverse player IDs
 
 ![weekly-playerids](https://github.com/dynastyprocess/db/actions/workflows/weekly-playerids.yml/badge.svg)
