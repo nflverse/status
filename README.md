@@ -12,6 +12,7 @@ This page reports the schedule and status of nflverse data pipelines.
 
 ## Rosters
 ![rosters](https://img.shields.io/github/workflow/status/nflverse/nflfastR-roster/update_rosters?label=Rosters&style=flat-square)
+
 `0 7 * * *`
 
 ## Snap Counts
