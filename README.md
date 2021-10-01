@@ -5,6 +5,7 @@ This page reports the schedule and status of nflverse data pipelines.
 ## Play by Play
 
 Raw json: ![raw](https://img.shields.io/github/last-commit/nflverse/nflfastR-raw?label=Raw%20PBP%20Updated&style=flat-square)
+
 PBP data repo: ![pbp and ps](https://img.shields.io/github/workflow/status/nflverse/nflfastR-data/update_current_season_pbp_and_stats?label=PBP%20%26%20Player%20Stats&style=flat-square)
 
 `0 9 * 1,2,9-12 *`
